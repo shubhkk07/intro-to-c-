@@ -6,5 +6,6 @@ int a,b,c;
 cout<<"enter two numbers want to add";
 cin>>a>>b;
 c=a+b;
-return c;
+cout<<c;
+getch();
 }
